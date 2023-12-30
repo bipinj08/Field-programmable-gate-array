@@ -1,0 +1,8 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/User/Desktop/FPGA/Lab_Second/lab_th/Bit_Comparator/Bit_Comparator.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+C:/Users/User/Desktop/FPGA/Lab_Second/lab_th/Bit_Comparator/Bit_Comparator.srcs/sim_1/new/cmp_tb.v,1688534569,verilog,,,,cmp_tb,,,,,,,,
+C:/Users/User/Desktop/FPGA/Lab_Second/lab_th/Bit_Comparator/Bit_Comparator.srcs/sources_1/new/cmp.v,1688534411,verilog,,C:/Users/User/Desktop/FPGA/Lab_Second/lab_th/Bit_Comparator/Bit_Comparator.srcs/sources_1/new/cmp_bitslice.v,,cmp,,,,,,,,
+C:/Users/User/Desktop/FPGA/Lab_Second/lab_th/Bit_Comparator/Bit_Comparator.srcs/sources_1/new/cmp_bitslice.v,1688534409,verilog,,C:/Users/User/Desktop/FPGA/Lab_Second/lab_th/Bit_Comparator/Bit_Comparator.srcs/sim_1/new/cmp_tb.v,,cmp_bitslice,,,,,,,,

@@ -1,0 +1,7 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/User/Desktop/FPGA/Lab_Second/lab_7th/Asynchronous_counter/Asynchronous_counter.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+C:/Users/User/Desktop/FPGA/Lab_Second/lab_7th/Asynchronous_counter/Asynchronous_counter.srcs/sim_1/new/tb.v,1687934427,verilog,,,,clkdiv_asyncTb,,,,,,,,
+C:/Users/User/Desktop/FPGA/Lab_Second/lab_7th/Asynchronous_counter/Asynchronous_counter.srcs/sources_1/new/clk_divider.v,1687934432,verilog,,C:/Users/User/Desktop/FPGA/Lab_Second/lab_7th/Asynchronous_counter/Asynchronous_counter.srcs/sim_1/new/tb.v,,clkdiv_asynccntr,,,,,,,,

@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../cla_git.srcs/sources_1/new/CPGN.v" \
+"../../../../cla_git.srcs/sources_1/new/bitslice.v" \
+"../../../../cla_git.srcs/sources_1/new/seven.v" \
+"../../../../cla_git.srcs/sources_1/new/wrapper.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

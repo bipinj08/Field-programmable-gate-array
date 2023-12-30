@@ -1,0 +1,8 @@
+Time resolution is 1 ps
+Test Case 1: A = 5, B = 5
+LT_O = 0, EQ_O = 1, GT_O = 0
+Test Case 2: A = 12, B = 5
+LT_O = 0, EQ_O = 0, GT_O = 1
+Test Case 3: A = 3, B = 12
+LT_O = 1, EQ_O = 0, GT_O = 0
+$finish called at time : 30 ns : File "C:/Users/User/Desktop/FPGA/Lab_Second/lab_th/Bit_Comparator/Bit_Comparator.srcs/sim_1/new/cmp_tb.v" Line 62

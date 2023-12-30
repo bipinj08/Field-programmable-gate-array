@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="present_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="present_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="132.267 ns"></ZoomStartTime>
+      <ZoomEndTime time="164.289 ns"></ZoomEndTime>
+      <Cursor1Time time="161.275 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="113"></NameColumnWidth>
+      <ValueColumnWidth column_width="68"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="10" />
+   <wvobject fp_name="/present_tb/sta" type="logic">
+      <obj_property name="ElementShortName">sta</obj_property>
+      <obj_property name="ObjectShortName">sta</obj_property>
+   </wvobject>
+   <wvobject fp_name="/present_tb/inp" type="array">
+      <obj_property name="ElementShortName">inp[0:63]</obj_property>
+      <obj_property name="ObjectShortName">inp[0:63]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/present_tb/ck" type="logic">
+      <obj_property name="ElementShortName">ck</obj_property>
+      <obj_property name="ObjectShortName">ck</obj_property>
+   </wvobject>
+   <wvobject fp_name="/present_tb/rn" type="logic">
+      <obj_property name="ElementShortName">rn</obj_property>
+      <obj_property name="ObjectShortName">rn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/present_tb/rdy" type="logic">
+      <obj_property name="ElementShortName">rdy</obj_property>
+      <obj_property name="ObjectShortName">rdy</obj_property>
+   </wvobject>
+   <wvobject fp_name="/present_tb/out" type="array">
+      <obj_property name="ElementShortName">out[0:63]</obj_property>
+      <obj_property name="ObjectShortName">out[0:63]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/present_tb/i" type="array">
+      <obj_property name="ElementShortName">i[31:0]</obj_property>
+      <obj_property name="ObjectShortName">i[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/present_tb/per" type="array">
+      <obj_property name="ElementShortName">per[31:0]</obj_property>
+      <obj_property name="ObjectShortName">per[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/present_tb/dut/u_comb/cnt" type="array">
+      <obj_property name="ElementShortName">cnt[0:4]</obj_property>
+      <obj_property name="ObjectShortName">cnt[0:4]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/present_tb/mat" type="array">
+      <obj_property name="ElementShortName">mat[0:23]</obj_property>
+      <obj_property name="ObjectShortName">mat[0:23]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+</wave_config>

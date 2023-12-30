@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7s50csga324-1" LaunchTime="1687937356">
+  <File Type="ROUTE-PWR" Name="clkdiv_asynccntr_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="clkdiv_asynccntr.tcl"/>
+  <File Type="BITSTR-MMI" Name="clkdiv_asynccntr.mmi"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="clkdiv_asynccntr_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="clkdiv_asynccntr_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR-SUM" Name="clkdiv_asynccntr_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="clkdiv_asynccntr_reports.tcl"/>
+  <File Type="OPT-TIMING" Name="clkdiv_asynccntr_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="clkdiv_asynccntr_opt.dcp"/>
+  <File Type="OPT-DRC" Name="clkdiv_asynccntr_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="clkdiv_asynccntr.hwdef"/>
+  <File Type="PWROPT-DCP" Name="clkdiv_asynccntr_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="clkdiv_asynccntr_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="clkdiv_asynccntr_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="clkdiv_asynccntr_placed.dcp"/>
+  <File Type="PLACE-IO" Name="clkdiv_asynccntr_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="clkdiv_asynccntr_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="clkdiv_asynccntr_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="clkdiv_asynccntr_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="clkdiv_asynccntr_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="clkdiv_asynccntr_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="clkdiv_asynccntr_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BG-BIN" Name="clkdiv_asynccntr.bin"/>
+  <File Type="PLACE-TIMING" Name="clkdiv_asynccntr_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="clkdiv_asynccntr_postplace_pwropt.dcp"/>
+  <File Type="BITSTR-MSK" Name="clkdiv_asynccntr.msk"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="clkdiv_asynccntr_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="clkdiv_asynccntr_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="clkdiv_asynccntr_drc_physopted.rpt"/>
+  <File Type="BITSTR-RBT" Name="clkdiv_asynccntr.rbt"/>
+  <File Type="PHYSOPT-TIMING" Name="clkdiv_asynccntr_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="clkdiv_asynccntr_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="clkdiv_asynccntr_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="clkdiv_asynccntr_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="clkdiv_asynccntr_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="clkdiv_asynccntr_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="clkdiv_asynccntr_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="clkdiv_asynccntr_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="clkdiv_asynccntr_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="clkdiv_asynccntr_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="clkdiv_asynccntr_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="clkdiv_asynccntr_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="clkdiv_asynccntr_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="clkdiv_asynccntr_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="clkdiv_asynccntr_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="clkdiv_asynccntr_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="clkdiv_asynccntr_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="clkdiv_asynccntr_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="clkdiv_asynccntr_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="clkdiv_asynccntr_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="clkdiv_asynccntr_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="clkdiv_asynccntr_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="clkdiv_asynccntr_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="clkdiv_asynccntr_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="clkdiv_asynccntr_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="clkdiv_asynccntr_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="clkdiv_asynccntr_bus_skew_postroute_physopted.rpt"/>
+  <File Type="BG-BIT" Name="clkdiv_asynccntr.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="clkdiv_asynccntr_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="clkdiv_asynccntr_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-NKY" Name="clkdiv_asynccntr.nky"/>
+  <File Type="BITSTR-BMM" Name="clkdiv_asynccntr_bd.bmm"/>
+  <File Type="PDI-FILE" Name="clkdiv_asynccntr.pdi"/>
+  <File Type="RCFI_FILE" Name="clkdiv_asynccntr.rcfi"/>
+  <File Type="CFI_FILE" Name="clkdiv_asynccntr.cfi"/>
+  <File Type="RNPI_FILE" Name="clkdiv_asynccntr.rnpi"/>
+  <File Type="NPI_FILE" Name="clkdiv_asynccntr.npi"/>
+  <File Type="RBD_FILE" Name="clkdiv_asynccntr.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="clkdiv_asynccntr.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="clkdiv_asynccntr.sysdef"/>
+  <File Type="BG-BGN" Name="clkdiv_asynccntr.bgn"/>
+  <File Type="BG-DRC" Name="clkdiv_asynccntr.drc"/>
+  <File Type="RDI-RDI" Name="clkdiv_asynccntr.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="ROUTE-RQS" Name="clkdiv_asynccntr_routed.rqs"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="clkdiv_asynccntr_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/clk_divider.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="clkdiv_asynccntr"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/asd.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2022"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

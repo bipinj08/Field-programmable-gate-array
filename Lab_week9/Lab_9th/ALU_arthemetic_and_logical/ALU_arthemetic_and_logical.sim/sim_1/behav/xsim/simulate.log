@@ -1,0 +1,8 @@
+Time resolution is 1 ps
+Addition Result: F=00000000, Cout=1
+Increment Result: F=11001101, Cout=0
+Subtract Result: F=11001100, Cout=0
+Bit-wise XOR Result: F=11111111, Cout=0
+Bit-wise OR Result: F=11110011, Cout=0
+Bit-wise AND Result: F=10001000, Cout=0
+$finish called at time : 60 ns : File "C:/Users/User/Desktop/FPGA/Lab_Second/Lab_9th/ALU_arthemetic_and_logical/ALU_arthemetic_and_logical.srcs/sim_1/new/ALU_8bit_TB.v" Line 100

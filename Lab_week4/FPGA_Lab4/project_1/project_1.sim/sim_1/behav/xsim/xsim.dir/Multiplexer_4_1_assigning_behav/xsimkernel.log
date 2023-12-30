@@ -1,0 +1,7 @@
+Running: xsim.dir/Multiplexer_4_1_assigning_behav/xsimk.exe -simmode gui -wdb Multiplexer_4_1_assigning_behav.wdb -simrunnum 0 -socket 61436
+Design successfully loaded
+Design Loading Memory Usage: 7780 KB (Peak: 7780 KB)
+Design Loading CPU Usage: 31 ms
+Simulation completed
+Simulation Memory Usage: 8308 KB (Peak: 8308 KB)
+Simulation CPU Usage: 77 ms
